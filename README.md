@@ -37,7 +37,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 * Finally I created a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
   
-  ![Subcategory Stats](Images/SubcategoryStats.png)
+![Subcategory Stats](Images/SubcategoryStats.png)
 
 - - -
 
