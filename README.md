@@ -4,6 +4,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. I organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
+# Part 1
 
 * I used conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
 
@@ -18,7 +19,8 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ![Kickstarter Table](Images/FullTable.png)
 
 - - -
-  
+# Part 2
+
  * A new sheet was then created with a pivot table to analyze my initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
  * What ensued was the creation of a stacked column pivot chart that can be filtered by country based on the table I created.
@@ -26,6 +28,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
  ![Category Stats](Images/CategoryStats.png)
  
 - - -
+# Part 3
 
 * Now a new sheet was created with a pivot table analyzing my initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
@@ -40,6 +43,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ![Subcategory Stats](Images/SubcategoryStats.png)
 
 - - -
+# Part 4
 
 * Lastly I created a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
 
