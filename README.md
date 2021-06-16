@@ -41,13 +41,16 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 - - -
 
-  ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.png)
+* Lastly I created a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
 
-  * Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
+* Finally I created a pivot chart line graph that visualizes this new table.
 
-  * Now create a pivot chart line graph that visualizes this new table.
+![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.png)
 
-* Create a report in Microsoft Word and answer the following questions.
+- - -
+
+
+* Once all this was finished, I wrote up a report in Microsoft Word to answer the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
