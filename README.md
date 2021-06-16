@@ -1,18 +1,8 @@
-# Excel Homework: Kickstart My Chart
-
-## Background
+# Excel Analysis
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
-
-### Before You Begin
-
-1. Create a new space for this project called `excel-challenge` in either DropBox or Google Drive. **Do not add this homework to an existing space**.
-
-2. Store your excel workbooks in here and create a sharable link for submission.
-
-## Instructions
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. I organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
 ![Kickstarter Table](Images/FullTable.png)
 
@@ -93,50 +83,6 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 * Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
 
 * Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
-
-## Bonus Statistical Analysis
-
-If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table.
-
-For those looking for an additional challenge, you will evaluate the number of backers of successful and unsuccessful campaigns by creating **your own** summary statistics table.
-
-* Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
-
-  ![Images/backers01.png](Images/backers01.png)
-
-* Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
-
-  * The mean number of backers.
-
-  * The median number of backers.
-
-  * The minimum number of backers.
-
-  * The maximum number of backers.
-
-  * The variance of the number of backers.
-
-  * The standard deviation of the number of backers.
-
-* Use your data to determine whether the mean or the median summarizes the data more meaningfully.
-
-* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
-
-## Submission
-
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
-
-## Employer-Ready Criteria
-
-Students who are marked as employer-ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer-ready. At a minimum, you must have:
-
-- A clear, concise, and compelling resume. Submit via your learning platform for review.
-- A polished GitHub profile:
-  - 3 - 6 pinned repositories ([instructions here](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile))
-  - at least 5 commits per repository
-  - professional titles, i.e. not "Homework #1"
-  - thorough README.md files for each repository
-  - clean code
 
 - - -
 
