@@ -15,6 +15,10 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 * Finally, I created two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
+![Kickstarter Table](Images/FullTable.png)
+
+- - -
+  
   ![Category Stats](Images/CategoryStats.png)
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
